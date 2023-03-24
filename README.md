@@ -1,7 +1,7 @@
-# solc-select
-A tool to quickly switch between Solidity compiler versions.
+# solc-select&compile
+A tool to automatic detect solidity pragrama version and switch Solidity compiler versions.
 
-The tool is split into two CLI utilities:
+The tool is combine by two CLI utilities:
 - `solc-select`: manages installing and setting different `solc` compiler versions
 - `solc`: wrapper around `solc` which picks the right version according to what was set via `solc-select`
 
