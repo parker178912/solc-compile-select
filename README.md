@@ -1,5 +1,5 @@
 # solc-select&compile
-A tool to automatic detect solidity pragrama version and switch Solidity compiler versions.
+A tool to automatic detect solidity pragrama version, switch Solidity compiler versions and do compile.
 
 The tool is combine by two CLI utilities:
 - `solc-select`: manages installing and setting different `solc` compiler versions
