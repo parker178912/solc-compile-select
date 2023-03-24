@@ -14,6 +14,7 @@ The downloaded binaries are stored in `~/.solc-select/artifacts/`.
 
 ```
 pip3 install solc-select
+python main.py <file>
 ```
 
 ### Running on ARM (Mac M1/M2)
